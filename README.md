@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer 
 - 🌱 I’m currently learning html,css and js
 - 💞️ I’m looking to collaborate on beginner learning 
-- 📫 How to reach me 
+- 📫 How to reach me bobch444@gmail.com 
 
 <!---
 JohorApek/JohorApek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
